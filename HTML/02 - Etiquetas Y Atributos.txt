@@ -1,0 +1,16 @@
+Que es una etiqueta y un atributo.
+----------------------------------
+
+Una etiqueta es una palabra entre los signos < >.
+	<etiqueta>
+
+Prácticamente todas las etiquetas van por parejas.
+	<aperturas></cierre>
+	
+Un atributo es una palabra dentro de una etiqueta que proporciona información adicional a esta.
+	<etiqueta atributo>
+		Siempre está en las etiquetas de apertura.
+	<etiqueta atributo></cierre>
+	
+Está compuesto siempre de pares nombre = valor. Y el valor suele ir entre comillas.
+	<etiqueta nombre = "valor"></etiqueta>
