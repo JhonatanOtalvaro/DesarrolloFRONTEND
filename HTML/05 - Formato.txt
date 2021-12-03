@@ -1,0 +1,20 @@
+Como dar formato al texto.
+--------------------------
+
+Algunas etiquetas resaltan o destacan el texto.
+
+Otras etiquetas además de lo anterior aportan significado al texto.
+
+HTML semántico: 
+Su código está bien estructurado porque aprovechan las etiquetas con
+significado semántico que aporta HTML.
+
+Dotando a los contenidos de significado.
+
+<b>...</b> bold: negrilla.
+
+<strong>...</strong> tiene importancia semántica.
+
+<i>...</i> itálica o cursiva.
+
+<em>...</em> significado al texto
