@@ -1,0 +1,16 @@
+Estructura básica de un documento HTML
+--------------------------------------
+<!DOCTYPE html> El tipo de documento HTML
+
+- Etiquetas <html></html> indican el principio y el final 
+de un documento escrito en HTML, entre ellas va todo el código
+HTML.
+
+- dentro de las etiquetas <html></html> se pueden encontrar las etiquetas
+
+<head></head> Entre estas va la parte no visible del código.
+	Etiquetas meta, posicionamiento y descripción de una página web, el código
+	CSS el cual le da un estilo a una página Web, enlaces a Scripts que ofrecen
+	interactividad a una Web, etc... además de contener la etiqueta <title></title>
+	
+- Etiquetas <body></body> donde va gran parte del código, parte visible de la web.
