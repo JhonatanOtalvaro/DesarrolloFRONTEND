@@ -1,0 +1,39 @@
+Que es una ruta.
+-----------------
+
+Una ruta es el camino que se necesita recorrer hacia un dispositivo o archivo, ya sea una imagen,
+un programa o una dirección de internet (Página HTML).
+
+La ruta nos dice exactamente donde está un archivo.
+
+Para apuntar a un archivo, hay que indicarle el camino exacto con los nombres de los directorios,
+hasta llegar al archivo al que se quiere referenciar.
+
+Ejemplo de ruta: directorio1/directorio2/archivo
+
+Los nombres de los directorios están separados por un carácter delimitador, 
+que normalmente es la barra diagonal [/]
+
+Ruta relativa o Ruta absoluta 
+
+-	Ruta absoluta
+Señala la ubicación exacta de un archivo desde su raíz.
+
+No necesita información adicional para referenciar la ruta, ya que incluye todas
+las partes de las que se compone una URL.
+
+	Ejemplo De Rutas Absolutas:
+		http://www.rutaAbsoluta.com/dir1/dir2/archivo.HTML
+		http://www.miPaginaWeb.com/index.html
+		http://www.miPaginaWeb.com/imágenes/imagenDePrueba.jpg
+		
+Las URL de la barra de navegación, son rutas absolutas.
+
+- Ruta relativa
+necesita información adicional para referenciar la ruta, ya que no incluye todas
+las partes de la que se compone una URL.
+
+Ejemplo de las rutas relativas.
+	dir1/dir2/archivo.html
+	../index.html
+	imagenes/imagenDePrueba.jpg.
