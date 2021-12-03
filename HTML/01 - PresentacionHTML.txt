@@ -1,0 +1,21 @@
+Presentación HTML
+----------------------
+<etiqueta + atributos>
+
+	- Documento HTML.
+	- Curriculum de página web sencilla.
+
+Cabecera.
+	Logo, imagén de la web, etc...
+-------------------------------------------------------------------------------
+Menú de navegación.
+	Suele ir encima de la cabecera, debajo o los laterales.
+		Se utiliza para una fácil navegación por todos los apartados de la web.
+-------------------------------------------------------------------------------
+Cuerpo.
+	Contenido importante de la web.
+		Artículos, productos de venta, aplicaciones, etc...
+-------------------------------------------------------------------------------
+Pie.
+	Serie de informaciones
+-------------------------------------------------------------------------------
