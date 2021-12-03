@@ -1,0 +1,23 @@
+Encabezados, párrafos y saltos de linea.
+----------------------------------------
+
+- Encabezados.
+Títulos o cabeceras de un documento HTML 
+<h>...</h>
+<h1>...</h1>
+<h2>...</h2>
+<h3>...</h3>
+<h4>...</h4>
+<h5>...</h5>
+<h6>...</h6>
+Siendo la más importante la de nivel 1, y la menos
+la de nivel 6.
+
+- Párrafos y saltos de línea.
+<p>...</p>
+cuando se agrega texto entre estas etiquetas lo que se hace es dejar un salto de línea
+antes y después de la etiqueta
+
+<br/> Salto de línea.
+Las etiquetas que no tienen pareja suelen tener la barra diagonal al final en vez de al
+principio.
